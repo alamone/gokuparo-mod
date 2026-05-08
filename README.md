@@ -9,5 +9,5 @@ Instructions:
 - Run "patch.bat".
 - Output will be in the "gokuparo-modded" folder.
 
-Changelog:
+Changelog:<br />
 05/08/2026: v1.0 - Initial release.
